@@ -1,0 +1,4 @@
+rq
+urllib2
+json
+MySQL-python
